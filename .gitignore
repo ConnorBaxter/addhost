@@ -1,1 +1,2 @@
 hosts_backup/*
+!hosts_backup/.addtogit
